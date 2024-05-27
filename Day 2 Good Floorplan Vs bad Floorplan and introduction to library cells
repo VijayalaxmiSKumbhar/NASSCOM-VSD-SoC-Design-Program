@@ -1,2 +1,7 @@
 Chip floor planning considerations 
 Utilization Factor and Aspect Ratio
+Defining the width and height of Core and Die
+
+Utilization Factor =(Area Occupied by Netlist)/(Total Area of the Core)
+
+Aspect Ratio = Height/Width
