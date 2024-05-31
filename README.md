@@ -35,6 +35,32 @@ less config.tcl
 
 ![config](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/b96eec9a-2f3b-4fb3-b0f3-841cc905029a)
 
+Design Preparation steps
+
+![designprep](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/0afd49ae-0dce-45e3-bd30-abf0a46f76c3)
+
+runs directory
+
+![rundir](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/6a4d6047-b3e5-440c-8b0e-ae788ccb13c2)
+
+cd tmp
+
+![tmp](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/21c01d39-0e10-45a7-baab-cc9dc2066535)
+
+less merged.lef
+
+![merged](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/9695e7dc-e993-42b7-9800-28e9de3539ef)
+
+less config.tcl
+
+![configtcl](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/2f878d07-9a84-4b6f-99f7-cf421c88303d)
+
+run_synthesis
+
+![synthesis](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/45f0224d-1e11-428e-a314-e597a21e876e)
+
+
+
 
 
 
