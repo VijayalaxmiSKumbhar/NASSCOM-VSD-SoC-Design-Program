@@ -59,6 +59,29 @@ run_synthesis
 
 ![synthesis](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/45f0224d-1e11-428e-a314-e597a21e876e)
 
+Flop ratio
+
+![flopratio](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/8bb0301f-90e1-4417-93ae-c62e774f75ee)
+
+floorplan
+
+![aspectratioo](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/a8abead7-877d-4aca-825a-860c3f8dc6f3)
+
+![floorplan](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/cf5c3f91-6a1b-4bcb-91d6-9f948a698f81)
+
+![1dieaarea](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/429b50f4-6d1a-4833-8c19-b78b1481d945)
+
+![3](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/2b7b2be2-977d-4160-92ed-7b714f44c694)
+
+![5](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/8188b058-6170-4bcf-96cd-24a5dc98a9a3)
+
+![6](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/fff6fa50-7733-4a86-bef1-742570737d7c)
+
+
+
+
+
+
 
 
 
