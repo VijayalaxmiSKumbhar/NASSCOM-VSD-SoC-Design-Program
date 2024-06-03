@@ -87,6 +87,10 @@ floorplan
 
 ![11](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/3706568d-4494-47f0-97d3-6de3b109f40f)
 
+NMOS is Identified
+
+![12](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/5ae57015-053c-40e7-8330-dbae94fafdb3)
+
 
 
 
