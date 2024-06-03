@@ -77,6 +77,20 @@ floorplan
 
 ![6](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/fff6fa50-7733-4a86-bef1-742570737d7c)
 
+![7 placement](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/639eeb90-b19a-4bee-b3a9-d42ec8eb04b8)
+
+![8](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/53de0bff-31f3-4ee7-af7a-fc112653b472)
+
+![9](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/13a13069-aa4b-4d4b-8668-9d7bf2050294)
+
+![10](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/46645870-db68-4a72-8829-a900744dcd50)
+
+![11](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/3706568d-4494-47f0-97d3-6de3b109f40f)
+
+
+
+
+
 
 
 
