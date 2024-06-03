@@ -93,6 +93,9 @@ NMOS is Identified
 
 ![13](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/5f072f3c-01cc-4a62-8ade-f34f5b7b4922)
 
+![14](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/d91af9af-22d8-4024-9b48-00e49b24421d)
+
+
 
 
 
