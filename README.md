@@ -1,5 +1,6 @@
 # VSD-SoC-Design-Program
 L1: OpenLANE Working Directory Structure
+
 Linux Commands
 cd
 ls 
@@ -25,10 +26,17 @@ sky130_fd_sc_hd
 ![sc](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/371b3f31-fc41-466e-a0f1-13aa1b433bfb)
 
 To invoke the tool
+docker 
+./flow.tcl -interactive
 
 ![openlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/ff642715-c5eb-4d00-ba6d-6e265974a857)
 
-Various design in openlane
+L2: Design Preparation Steps
+package require openlane 0.9
+prep -design picorv32a
+
+![image](https://github.com/user-attachments/assets/79718aab-1d52-40b3-a9e3-23bd7d1cef03)
+
 
 ![designsopenlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/42054fc1-f8f9-49ab-833a-8b667ce73888)
 
