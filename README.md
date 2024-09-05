@@ -1,4 +1,5 @@
 # VSD-SoC-Design-Program
+L1: OpenLANE Working Directory Structure
 Linux Commands
 cd
 ls 
@@ -10,6 +11,10 @@ ls --help
 clear command
 
 ![clear command](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/f2ae3a86-117f-4f20-9e36-fae8524a5957)
+
+pdks
+
+![image](https://github.com/user-attachments/assets/ae30cb39-ac12-4577-9616-f0ed076f6f09)
 
 libs.ref, libs.tech
 
