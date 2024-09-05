@@ -32,15 +32,18 @@ docker
 ![openlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/ff642715-c5eb-4d00-ba6d-6e265974a857)
 
 L2: Design Preparation Steps
+
 package require openlane 0.9
+
 prep -design picorv32a
 
-![image](https://github.com/user-attachments/assets/79718aab-1d52-40b3-a9e3-23bd7d1cef03)
+![image](https://github.com/user-attachments/assets/81ac7fd4-eab3-466a-b63c-c21972e30519)
+
 
 
 ![designsopenlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/42054fc1-f8f9-49ab-833a-8b667ce73888)
 
-picrv32a
+picorv32a
 
 ![picorv32a](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/d2a79fd2-80bd-48c0-a2ce-f5774ba23fa5)
 
