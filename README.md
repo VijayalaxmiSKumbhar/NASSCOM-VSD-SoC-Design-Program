@@ -165,6 +165,11 @@ In the screenshot FP_IO_MODE 1 indicates that the pins are positioned randomly a
 
 ![image](https://github.com/user-attachments/assets/12933317-3809-4277-afd3-566afcb27335)
 
+less config.tcl: shows design name, clock period etc
+
+
+![image](https://github.com/user-attachments/assets/3ce7b835-5017-4305-8006-f5009edb62ef)
+
 
 
 To run the floor plan just give the command as run_floorplan
