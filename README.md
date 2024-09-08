@@ -149,7 +149,7 @@ floorplan: set the die area, core area, aspect ratio, utilization factor, place 
 standard cells are not placed in floor planning
 
 
-JUst go to to the location given in the screenshot and try to open the readme file
+Just go to to the location given in the screenshot and try to open the readme file
 
 ![image](https://github.com/user-attachments/assets/09b4e8dc-9cc0-4e8b-b5ef-125929b1b426)
 
