@@ -2,10 +2,15 @@
 L1: OpenLANE Working Directory Structure
 
 Linux Commands
-cd
-ls 
-ls -ltr
-ls --help
+
+cd: Change directory
+
+ls: list files 
+
+ls -ltr: List the files in chronological order
+
+ls --help: Gives the detailed information about commands
+
 
 ![linuxcommands](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/63a389c8-6025-4b6a-b103-423c875d2234)
 
@@ -40,10 +45,19 @@ prep -design picorv32a
 ![image](https://github.com/user-attachments/assets/81ac7fd4-eab3-466a-b63c-c21972e30519)
 
 
+Various designs in openlane
 
-![designsopenlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/42054fc1-f8f9-49ab-833a-8b667ce73888)
+![image](https://github.com/user-attachments/assets/5247ca15-3106-41f6-9d2e-ac08518d29a3)
 
-picorv32a
+
+picorv32a contains 3 files
+
+src: source file
+
+pdk specific file 
+
+config.tcl file
+
 
 ![picorv32a](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/d2a79fd2-80bd-48c0-a2ce-f5774ba23fa5)
 
