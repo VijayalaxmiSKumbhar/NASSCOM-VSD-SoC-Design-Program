@@ -148,6 +148,17 @@ floorplan: set the die area, core area, aspect ratio, utilization factor, place 
 
 standard cells are not placed in floor planning
 
+
+JUst go to to the location given in the screenshot and try to open the readme file
+
+![image](https://github.com/user-attachments/assets/09b4e8dc-9cc0-4e8b-b5ef-125929b1b426)
+
+README.md file by giving the command less README.md: Here you can see the variables required for each stage, these variables are noting but switches
+
+![image](https://github.com/user-attachments/assets/db8fc66e-ae66-4ad2-9c1b-1bb486683e45)
+
+
+
 To run the floor plan just give the command as run_floorplan
 
 ![aspectratioo](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/a8abead7-877d-4aca-825a-860c3f8dc6f3)
@@ -155,6 +166,11 @@ To run the floor plan just give the command as run_floorplan
 ![floorplan](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/cf5c3f91-6a1b-4bcb-91d6-9f948a698f81)
 
 ![1dieaarea](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/429b50f4-6d1a-4833-8c19-b78b1481d945)
+
+
+default parameters set for floorplan in openlane
+
+![image](https://github.com/user-attachments/assets/cb6d9c56-2ff3-4701-b490-4b4d4be5d869)
 
 ![3](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/2b7b2be2-977d-4160-92ed-7b714f44c694)
 
