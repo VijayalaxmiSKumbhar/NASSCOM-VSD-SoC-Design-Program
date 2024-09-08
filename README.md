@@ -61,7 +61,17 @@ config.tcl file
 
 ![picorv32a](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/d2a79fd2-80bd-48c0-a2ce-f5774ba23fa5)
 
-less config.tcl
+less config.tcl contains all the information
+
+design environment
+
+verilog file
+
+sdc file
+
+clock period
+
+setting of the file
 
 ![config](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/b96eec9a-2f3b-4fb3-b0f3-841cc905029a)
 
@@ -69,19 +79,38 @@ Design Preparation steps
 
 ![designprep](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/0afd49ae-0dce-45e3-bd30-abf0a46f76c3)
 
-runs directory
+runs directory is created
 
-![rundir](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/6a4d6047-b3e5-440c-8b0e-ae788ccb13c2)
+![image](https://github.com/user-attachments/assets/4f42fd2f-da7f-4ceb-9204-0797654ef11e)
+
+folder structure required for openlane
+
+![image](https://github.com/user-attachments/assets/ec9d0422-17ba-4f23-9f23-ee25b37a75d9)
+
 
 cd tmp
 
-![tmp](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/21c01d39-0e10-45a7-baab-cc9dc2066535)
+![image](https://github.com/user-attachments/assets/aa92a1a7-376c-4bb7-902b-6705fef9ed3c)
+
 
 less merged.lef
 
 ![merged](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/9695e7dc-e993-42b7-9800-28e9de3539ef)
 
-less config.tcl
+cd runs
+
+cd results
+
+cd synthesis
+
+![image](https://github.com/user-attachments/assets/1d0d297c-0f0a-4cbd-93a8-0c32ff13a2d3)
+
+
+cd reports
+
+![image](https://github.com/user-attachments/assets/a08e67c5-d40f-4d3e-8525-ad173780451d)
+
+less config.tcl: it shows the default parameters taken by run
 
 ![configtcl](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/2f878d07-9a84-4b6f-99f7-cf421c88303d)
 
