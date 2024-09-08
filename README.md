@@ -194,6 +194,16 @@ ioPlacer.log
 
 ![image](https://github.com/user-attachments/assets/aa1b3bc6-12d0-4b36-800f-c3435812c074)
 
+![image](https://github.com/user-attachments/assets/3122ac0c-7435-4ae3-908a-4485af0d73d8)
+
+def file: design exchange format
+
+![image](https://github.com/user-attachments/assets/d454d048-4c93-4cfe-b56d-f37ff41edda5)
+
+beginning of def file is diearea
+
+![image](https://github.com/user-attachments/assets/a55c59ac-9ce0-4970-9826-3381e0069a15)
+
 ![3](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/2b7b2be2-977d-4160-92ed-7b714f44c694)
 
 ![5](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/8188b058-6170-4bcf-96cd-24a5dc98a9a3)
