@@ -118,11 +118,37 @@ run_synthesis
 
 ![synthesis](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/45f0224d-1e11-428e-a314-e597a21e876e)
 
+cd results/synthesis: shows the verilog file of design
+
+![image](https://github.com/user-attachments/assets/301ecbdb-dc2e-455c-bcfa-ff04fc01e920)
+
+
+cd reports/synthesis
+
+![image](https://github.com/user-attachments/assets/fecc4c51-56cd-47db-9868-2bea9ae4e28c)
+
+Actual synthesis statics report from this we calculate the flop ratio
+
+command to get the synthesis reports
+
+![image](https://github.com/user-attachments/assets/3e5d2653-f380-4c3c-8145-b6f345dddb2d)
+
+
+![image](https://github.com/user-attachments/assets/11931170-4ca0-446a-81e7-1ad6169b035c)
+
 Flop ratio
 
 ![flopratio](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/8bb0301f-90e1-4417-93ae-c62e774f75ee)
 
-floorplan
+sta timing report
+
+![image](https://github.com/user-attachments/assets/e1d15e6c-8c47-4905-908c-f912011c604b)
+
+floorplan: set the die area, core area, aspect ratio, utilization factor, place the input output cells, power distribution network and macrocell placement
+
+standard cells are not placed in floor planning
+
+To run the floor plan just give the command as run_floorplan
 
 ![aspectratioo](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/a8abead7-877d-4aca-825a-860c3f8dc6f3)
 
