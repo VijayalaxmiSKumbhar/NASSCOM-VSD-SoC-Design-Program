@@ -185,6 +185,15 @@ default parameters set for floorplan in openlane
 
 ![image](https://github.com/user-attachments/assets/cb6d9c56-2ff3-4701-b490-4b4d4be5d869)
 
+
+logs/floorplan/
+
+![image](https://github.com/user-attachments/assets/42725de1-0913-4281-98a9-5921d53eb1dd)
+
+ioPlacer.log
+
+![image](https://github.com/user-attachments/assets/aa1b3bc6-12d0-4b36-800f-c3435812c074)
+
 ![3](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/2b7b2be2-977d-4160-92ed-7b714f44c694)
 
 ![5](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/8188b058-6170-4bcf-96cd-24a5dc98a9a3)
