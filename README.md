@@ -157,6 +157,14 @@ README.md file by giving the command less README.md: Here you can see the variab
 
 ![image](https://github.com/user-attachments/assets/db8fc66e-ae66-4ad2-9c1b-1bb486683e45)
 
+To see the default settings of the floorplan type the following command
+
+less floorplan.tcl
+
+In the screenshot FP_IO_MODE 1 indicates that the pins are positioned randomly around the core but at equi distant for zero they will not be at equi distant
+
+![image](https://github.com/user-attachments/assets/12933317-3809-4277-afd3-566afcb27335)
+
 
 
 To run the floor plan just give the command as run_floorplan
