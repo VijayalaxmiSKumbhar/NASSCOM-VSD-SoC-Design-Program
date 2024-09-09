@@ -204,7 +204,8 @@ beginning of def file is diearea
 
 ![image](https://github.com/user-attachments/assets/a55c59ac-9ce0-4970-9826-3381e0069a15)
 
-![3](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/2b7b2be2-977d-4160-92ed-7b714f44c694)
+![Uploading image.png…]()
+
 
 ![5](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/8188b058-6170-4bcf-96cd-24a5dc98a9a3)
 
