@@ -206,9 +206,17 @@ beginning of def file is diearea
 
 ![image](https://github.com/user-attachments/assets/31d96e7c-b548-4ad2-9a5b-b02977cc4692)
 
-Press s and v to align it properly
+Press s and v to fit it on screen properly
 
 ![image](https://github.com/user-attachments/assets/f5c6b1c7-e9e5-4c81-bd97-f91646c2d2f4)
+
+![image](https://github.com/user-attachments/assets/1e31bcb4-ebb7-437f-9a99-366d76de6328)
+
+move the cursor on particular object and then press s
+
+go to tkon main and type what it will show the details as in the screenshot
+
+![image](https://github.com/user-attachments/assets/06538254-9343-49e2-bb8e-95cd7b83ea84)
 
 
 ![6](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/fff6fa50-7733-4a86-bef1-742570737d7c)
