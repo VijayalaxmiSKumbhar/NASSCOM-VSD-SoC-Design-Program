@@ -1,4 +1,4 @@
-# VSD-SoC-Design-Program
+![image](https://github.com/user-attachments/assets/6f08844f-0b11-48d0-b381-2e5f30770df8)# VSD-SoC-Design-Program
 L1: OpenLANE Working Directory Structure
 
 Linux Commands
@@ -204,10 +204,12 @@ beginning of def file is diearea
 
 ![image](https://github.com/user-attachments/assets/a55c59ac-9ce0-4970-9826-3381e0069a15)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/31d96e7c-b548-4ad2-9a5b-b02977cc4692)
 
+Press s and v to align it properly
 
-![5](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/8188b058-6170-4bcf-96cd-24a5dc98a9a3)
+![image](https://github.com/user-attachments/assets/f5c6b1c7-e9e5-4c81-bd97-f91646c2d2f4)
+
 
 ![6](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/fff6fa50-7733-4a86-bef1-742570737d7c)
 
