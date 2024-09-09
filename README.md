@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/6f08844f-0b11-48d0-b381-2e5f30770df8)# VSD-SoC-Design-Program
+# VSD-SoC-Design-Program
+
 L1: OpenLANE Working Directory Structure
 
 Linux Commands
