@@ -326,8 +326,15 @@ less tracks.info: tracks are basicaaly used during routing stage
 
 ![image](https://github.com/user-attachments/assets/13a0078d-6b01-4e26-869f-3729d7f22291)
 
+Each of the tracks are placed at 0.46 along horizontal direction. Similarly for y direction 0.34
+
+for every layer there is x and y direction
 
 ![image](https://github.com/user-attachments/assets/3cb49fbe-5f97-4cb0-8ef2-b0d2d37f77c6)
+
+grid dimensions
+
+![Uploading image.png…]()
 
 
 
