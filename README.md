@@ -317,7 +317,7 @@ Now let us calculate the propogation delay
 
 ![image](https://github.com/user-attachments/assets/eb6f65af-2cfc-47e4-a476-6ee78ba92e53)
 
-propagation delay = 2.21183e-09 - 2.15108e-09 = 0.06075 nS
+cell rise delay = 2.21183e-09 - 2.15108e-09 = 0.06075 nS
 
 
 
