@@ -378,6 +378,30 @@ The lef file has been included
 
 ![image](https://github.com/user-attachments/assets/751a16b0-376d-4f93-bace-2b7b60dd1793)
 
+less sky130_fd_sc_hd__typical.lib
+
+![image](https://github.com/user-attachments/assets/115aa230-cb68-4132-bdc6-c81f7527868b)
+
+
+![image](https://github.com/user-attachments/assets/0e052742-44fe-49ea-88e4-24245c1a185f)
+
+src will be having lef file as well as library
+
+![image](https://github.com/user-attachments/assets/29f3947c-a431-453f-ac29-7c04b5c11a6d)
+
+![image](https://github.com/user-attachments/assets/b9b7a038-2700-429c-a33b-ec85b7b70e90)
+
+now modify config.tcl
+
+![image](https://github.com/user-attachments/assets/b543f442-ecee-42d8-aa2b-ba64556cf600)
+
+mapping our cutom vsd inverter 
+
+![image](https://github.com/user-attachments/assets/44a3c544-4bea-4651-aadc-b04305f2188e)
+
+![image](https://github.com/user-attachments/assets/0d0f2ef7-acd2-4bb2-ae3e-0cf1cea707ca)
+
+![image](https://github.com/user-attachments/assets/9e21ef13-d8f3-4fa6-8ff2-7eb9f3ca34fb)
 
 
 
