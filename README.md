@@ -368,6 +368,18 @@ type the following commands to open the lef file
 
 plug this lef file into our picorv32a
 
+![image](https://github.com/user-attachments/assets/b542a447-3dd5-4a7f-911d-020fd1442194)
+
+copying lef file into src
+
+![image](https://github.com/user-attachments/assets/7efa90b8-7327-406d-b3da-b31fcbd28ecc)
+
+The lef file has been included
+
+![image](https://github.com/user-attachments/assets/751a16b0-376d-4f93-bace-2b7b60dd1793)
+
+
+
 
 
 
