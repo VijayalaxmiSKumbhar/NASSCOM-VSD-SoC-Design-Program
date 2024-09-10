@@ -320,6 +320,18 @@ Now let us calculate the propogation delay
 cell rise delay = 2.21183e-09 - 2.15108e-09 = 0.06075 nS
 
 
+#extracting lef file out of .mag file
+
+less tracks.info: tracks are basicaaly used during routing stage
+
+![image](https://github.com/user-attachments/assets/13a0078d-6b01-4e26-869f-3729d7f22291)
+
+
+![image](https://github.com/user-attachments/assets/3cb49fbe-5f97-4cb0-8ef2-b0d2d37f77c6)
+
+
+
+
 
 
 
