@@ -401,6 +401,8 @@ mapping our cutom vsd inverter
 
 ![image](https://github.com/user-attachments/assets/0d0f2ef7-acd2-4bb2-ae3e-0cf1cea707ca)
 
+In the screenshot wns is maximum slack and tns is total negative slack
+
 ![image](https://github.com/user-attachments/assets/9e21ef13-d8f3-4fa6-8ff2-7eb9f3ca34fb)
 
 
