@@ -278,6 +278,24 @@ spice file has been created
 
 let us see what is inside this spice file by giving the command vim sky130_inv.spice
 
+![image](https://github.com/user-attachments/assets/db164868-3b01-41f4-88ed-980b77650c3b)
+
+edited spice file
+
+![image](https://github.com/user-attachments/assets/71d34498-ef4b-4dd8-8254-223e999ddc1d)
+
+to simulate the spice file give the command ngspice sky130_inv.spice
+
+![image](https://github.com/user-attachments/assets/9bb9f34a-1b7e-4509-a9c6-3af0160ff43f)
+
+to see the plot give the command as plot y vs time a
+
+![image](https://github.com/user-attachments/assets/f8e17bb9-d30d-4d99-aefe-8ea98f87f2f7)
+
+to remove the spikes in the output waveform we will change the load capactice value to 2fF
+
+![image](https://github.com/user-attachments/assets/8e896688-1e6b-48ec-907b-6c0d127f5a61)
+
 
 
 
