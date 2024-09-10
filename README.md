@@ -338,6 +338,37 @@ grid dimensions
 
 width of the standard cell must be odd multiples of xpitch
 
+creating a port
+
+select a particular region and then go to edit click on text to make the changes
+
+![image](https://github.com/user-attachments/assets/ede1d061-b743-4fcd-9cfe-96a201fea458)
+
+port class and port use
+
+what will tell you to which layer it is attached, port name, signal etc
+
+![image](https://github.com/user-attachments/assets/0bc83188-34e4-45d2-87ec-b9c7deb93532)
+
+once this is done we are ready to extract the lef file
+
+save the file as sky130_vsdinv.mag
+
+![image](https://github.com/user-attachments/assets/82bffb63-b5a0-4307-b802-5f8fcfe475d9)
+
+lef write
+
+![image](https://github.com/user-attachments/assets/0023a960-8391-42eb-af79-6f4c4d6c134f)
+
+type the following commands to open the lef file
+
+![image](https://github.com/user-attachments/assets/87a68d3f-aa81-46b5-a163-efaaf38d01ec)
+
+![image](https://github.com/user-attachments/assets/283da182-302c-4a5a-8eef-6d11ce9e7cdf)
+
+plug this lef file into our picorv32a
+
+
 
 
 
