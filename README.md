@@ -253,6 +253,22 @@ what in tkcon tells highlighted portion, so here NMOS is identified
 
 ![image](https://github.com/user-attachments/assets/b7b14fb4-70f1-4425-9a84-d30a008dd39b)
 
+PMOS is identified
+
+![image](https://github.com/user-attachments/assets/20943225-513a-4192-8028-17edf13ffe91)
+
+In magic to see whether two different parts of the circuit are connected press s two times
+
+first time press: the area where the cursor is highlighted
+
+![image](https://github.com/user-attachments/assets/c88e01f1-7878-40bd-a841-9332c12ed11b)
+
+
+second time press:the area where it is connected gets highlighted
+
+![image](https://github.com/user-attachments/assets/c03bb8c0-566a-4e1f-bc60-fb4d1ee97fbc)
+
+
 
 
 
