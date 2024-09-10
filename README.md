@@ -296,7 +296,28 @@ to remove the spikes in the output waveform we will change the load capactice va
 
 ![image](https://github.com/user-attachments/assets/8e896688-1e6b-48ec-907b-6c0d127f5a61)
 
+20% Screenshots
+![image](https://github.com/user-attachments/assets/66b776dd-f78d-487b-a15d-8895199c6607)
 
+![image](https://github.com/user-attachments/assets/874689f3-07fa-4d4a-a991-97168bab0198)
+
+80% screenshots
+
+![image](https://github.com/user-attachments/assets/3cf3d08e-989e-45b1-b72a-7cb9a47e16eb)
+
+![image](https://github.com/user-attachments/assets/b6f9e2f3-65e6-464d-a394-d66d55c989d1)
+
+Rise time= 2.24608e-09 - 2.18196e-09=0.06412 nS
+
+Now let us calculate the propogation delay
+
+50% screenshots
+
+![image](https://github.com/user-attachments/assets/82afc187-6152-436e-856f-cd1c43850e18)
+
+![image](https://github.com/user-attachments/assets/eb6f65af-2cfc-47e4-a476-6ee78ba92e53)
+
+propagation delay = 2.21183e-09 - 2.15108e-09 = 0.06075 nS
 
 
 
