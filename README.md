@@ -393,7 +393,8 @@ src will be having lef file as well as library
 
 now modify config.tcl
 
-![image](https://github.com/user-attachments/assets/b543f442-ecee-42d8-aa2b-ba64556cf600)
+![image](https://github.com/user-attachments/assets/14fd710e-0e79-4c6b-bae9-d9fbfade1c49)
+
 
 mapping our cutom vsd inverter 
 
