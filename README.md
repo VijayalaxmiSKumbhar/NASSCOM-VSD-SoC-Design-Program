@@ -334,7 +334,10 @@ for every layer there is x and y direction
 
 grid dimensions
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/356dd412-37cc-4c73-aaf8-4816bbfa5d25)
+
+width of the standard cell must be odd multiples of xpitch
+
 
 
 
