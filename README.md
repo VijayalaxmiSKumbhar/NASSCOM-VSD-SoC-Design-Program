@@ -219,29 +219,16 @@ go to tkon main and type what it will show the details as in the screenshot
 
 ![image](https://github.com/user-attachments/assets/06538254-9343-49e2-bb8e-95cd7b83ea84)
 
-
-![10](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/46645870-db68-4a72-8829-a900744dcd50)
-
-![11](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/3706568d-4494-47f0-97d3-6de3b109f40f)
-
 cd Desktop/work/tools/openlane_working_dir/openlane
 
 git clone https://github.com/nickson-jose/vsdstdcelldesign
+
+![10](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/46645870-db68-4a72-8829-a900744dcd50)
 
 Various files in vsdstdcelldesign
 
 ![image](https://github.com/user-attachments/assets/ec21011e-cd72-43af-857b-dc43fcf9f064)
 
-NMOS is Identified
-
-![12](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/5ae57015-053c-40e7-8330-dbae94fafdb3)
-
-![13](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/5f072f3c-01cc-4a62-8ade-f34f5b7b4922)
-
-![14](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/d91af9af-22d8-4024-9b48-00e49b24421d)
-
-
-![15](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/482fbf50-4cad-45c3-a9f7-c4de17c7de2f)
 
 
 
