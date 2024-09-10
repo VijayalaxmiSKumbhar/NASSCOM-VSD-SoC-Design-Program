@@ -268,6 +268,16 @@ second time press:the area where it is connected gets highlighted
 
 ![image](https://github.com/user-attachments/assets/c03bb8c0-566a-4e1f-bc60-fb4d1ee97fbc)
 
+extract on spice
+
+![image](https://github.com/user-attachments/assets/3b3808b4-d487-4d7a-8a4f-bbc74295f80d)
+
+spice file has been created
+
+![image](https://github.com/user-attachments/assets/dbe87655-b6df-4ca8-a65e-d33016a3090e)
+
+let us see what is inside this spice file by giving the command vim sky130_inv.spice
+
 
 
 
