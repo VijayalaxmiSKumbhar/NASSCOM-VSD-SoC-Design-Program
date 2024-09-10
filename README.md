@@ -215,7 +215,7 @@ Press s and v to fit it on screen properly
 
 move the cursor on particular object and then press s
 
-go to tkon main and type what it will show the details as in the screenshot
+go to tkcon main and type what it will show the details as in the screenshot
 
 ![image](https://github.com/user-attachments/assets/06538254-9343-49e2-bb8e-95cd7b83ea84)
 
@@ -248,6 +248,10 @@ inverter in magic
 press s & V to fit on screen properly
 
 ![image](https://github.com/user-attachments/assets/10f9f197-ca75-4fe5-a9f8-bd6b81944874)
+
+what in tkcon tells highlighted portion, so here NMOS is identified
+
+![image](https://github.com/user-attachments/assets/b7b14fb4-70f1-4425-9a84-d30a008dd39b)
 
 
 
