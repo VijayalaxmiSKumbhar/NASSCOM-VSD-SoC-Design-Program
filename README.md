@@ -229,6 +229,28 @@ Various files in vsdstdcelldesign
 
 ![image](https://github.com/user-attachments/assets/ec21011e-cd72-43af-857b-dc43fcf9f064)
 
+tech file
+
+![image](https://github.com/user-attachments/assets/1cfe424e-d118-44e5-9fdb-a6fff86b2de2)
+
+copying the sky130A.tech file
+
+![image](https://github.com/user-attachments/assets/135f44aa-d471-404c-8b14-70a3e4dadf94)
+
+Aftercopying the file will be seen as given in the screenshot
+
+![image](https://github.com/user-attachments/assets/1145bf1c-8364-4f53-9e7c-bd71c0987487)
+
+inverter in magic
+
+![image](https://github.com/user-attachments/assets/3fa8b21b-038d-4ec2-85bb-d548212d552f)
+
+press s & V to fit on screen properly
+
+![image](https://github.com/user-attachments/assets/10f9f197-ca75-4fe5-a9f8-bd6b81944874)
+
+
+
 
 
 
