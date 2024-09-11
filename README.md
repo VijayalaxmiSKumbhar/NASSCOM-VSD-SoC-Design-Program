@@ -430,6 +430,38 @@ run_floorplan
 
 ![image](https://github.com/user-attachments/assets/dab08b19-824e-4486-8e1d-ececdf035e97)
 
+Since the flow is failed as shown in the above screenshot, run the following commands
+
+init_floorplan
+
+place_io
+
+tap_decap_or
+
+![image](https://github.com/user-attachments/assets/906a335d-6260-455f-9a10-8ee6ce0f8335)
+
+run_placement
+
+![image](https://github.com/user-attachments/assets/23348c6a-9884-4993-877e-81841925c3f7)
+
+load placement def in magic
+
+![image](https://github.com/user-attachments/assets/d400ab23-0ace-4f69-ad55-077bccfe9e57)
+
+placement def in magic
+
+![image](https://github.com/user-attachments/assets/ea2ea4a1-a677-4cfe-8c97-d3a411ee34a7)
+
+![image](https://github.com/user-attachments/assets/9345aa08-80d7-4500-93c7-4f384e7e7be3)
+
+sky130_vsdinv
+
+![image](https://github.com/user-attachments/assets/49248642-cd11-49d0-aa37-9f63a6275659)
+
+search for sky130_vsdinv and then expand
+
+![image](https://github.com/user-attachments/assets/20c8f094-cd0d-4ff5-9270-2187a7cf9f45)
+
 
 
 
