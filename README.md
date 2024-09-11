@@ -462,6 +462,22 @@ search for sky130_vsdinv and then expand
 
 ![image](https://github.com/user-attachments/assets/20c8f094-cd0d-4ff5-9270-2187a7cf9f45)
 
+pre_sta.conf
+
+pre_sta.conf file
+
+![image](https://github.com/user-attachments/assets/abd5f1ca-7df1-48da-b2e1-44d72b73d429)
+
+my_base.sdc file
+
+![image](https://github.com/user-attachments/assets/79d56dbf-858a-4913-9caa-c60b3c4114af)
+
+execution of sta pre_sta.conf
+
+![image](https://github.com/user-attachments/assets/b65e6819-0f33-4fd6-a63b-d42586bd5d70)
+
+![image](https://github.com/user-attachments/assets/d9a692f1-a5ae-4b20-add5-864b2ca37625)
+
 
 
 
