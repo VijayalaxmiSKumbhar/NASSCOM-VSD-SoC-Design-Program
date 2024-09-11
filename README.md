@@ -481,6 +481,19 @@ execution of sta pre_sta.conf
 
 ![image](https://github.com/user-attachments/assets/b65e6819-0f33-4fd6-a63b-d42586bd5d70)
 
+reduce fanout and do the synthesis again
+
+follow the commands given in screenshot
+
+![image](https://github.com/user-attachments/assets/8621a0a5-2612-4c0e-b469-88f0936ab673)
+
+![image](https://github.com/user-attachments/assets/3a39a252-0c73-4ff7-8aa7-c583ff2f2c16)
+
+run the sta pre_sta.conf
+
+![image](https://github.com/user-attachments/assets/fec2902f-884e-4a1a-a2e6-cdc01f0b328b)
+
+![image](https://github.com/user-attachments/assets/24102bf8-4939-46fd-86dc-c067e0816a70)
 
 
 
