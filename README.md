@@ -426,6 +426,10 @@ Now slack has been reduced
 
 ![image](https://github.com/user-attachments/assets/1c4d9e6e-b553-495c-9176-7657418ed76b)
 
+run_floorplan
+
+![image](https://github.com/user-attachments/assets/dab08b19-824e-4486-8e1d-ececdf035e97)
+
 
 
 
