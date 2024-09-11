@@ -393,18 +393,35 @@ src will be having lef file as well as library
 
 now modify config.tcl
 
-![image](https://github.com/user-attachments/assets/14fd710e-0e79-4c6b-bae9-d9fbfade1c49)
+![image](https://github.com/user-attachments/assets/ff25f623-fdcd-4875-8b11-d0c1e7854481)
 
 
-mapping our cutom vsd inverter 
 
-![image](https://github.com/user-attachments/assets/44a3c544-4bea-4651-aadc-b04305f2188e)
+overwrite will take the new values defined in config.tcl
 
-![image](https://github.com/user-attachments/assets/0d0f2ef7-acd2-4bb2-ae3e-0cf1cea707ca)
+![image](https://github.com/user-attachments/assets/85ef28c4-798d-452b-8656-e5847cbb9235)
 
-In the screenshot wns is maximum slack and tns is total negative slack
+![image](https://github.com/user-attachments/assets/fc899c11-24f8-4c4b-ac3e-154425d5392d)
 
-![image](https://github.com/user-attachments/assets/9e21ef13-d8f3-4fa6-8ff2-7eb9f3ca34fb)
+Additional steps
+
+![image](https://github.com/user-attachments/assets/4f5cb375-cc59-4444-af07-3d83cf08b0ef)
+
+
+mapping our custom vsd inverter 
+
+![image](https://github.com/user-attachments/assets/177a2f1c-572d-428d-ba91-bcf72b67143d)
+
+![image](https://github.com/user-attachments/assets/92118c9c-ef43-412e-b22b-85d3fb476b20)
+
+Synthesis is successful. In the screenshot wns is maximum slack and tns is total negative slack
+
+![image](https://github.com/user-attachments/assets/1671895d-e040-4686-af75-40cd09d51f84)
+
+
+
+
+
 
 
 
