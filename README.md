@@ -418,6 +418,15 @@ Synthesis is successful. In the screenshot wns is maximum slack and tns is total
 
 ![image](https://github.com/user-attachments/assets/1671895d-e040-4686-af75-40cd09d51f84)
 
+Commands to reduce slack
+
+![image](https://github.com/user-attachments/assets/45ec2679-59c5-4d79-bcc3-b28a015488b1)
+
+Now slack has been reduced
+
+![image](https://github.com/user-attachments/assets/1c4d9e6e-b553-495c-9176-7657418ed76b)
+
+
 
 
 
