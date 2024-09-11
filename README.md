@@ -495,6 +495,10 @@ run the sta pre_sta.conf
 
 ![image](https://github.com/user-attachments/assets/24102bf8-4939-46fd-86dc-c067e0816a70)
 
+consider the or gate
+
+![image](https://github.com/user-attachments/assets/c50a21cc-6fc2-437e-988d-4e11f501ae25)
+
 
 
 
