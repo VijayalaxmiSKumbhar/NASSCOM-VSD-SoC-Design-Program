@@ -495,9 +495,79 @@ run the sta pre_sta.conf
 
 ![image](https://github.com/user-attachments/assets/24102bf8-4939-46fd-86dc-c067e0816a70)
 
-consider the or gate
+pre_sta.conf: Configuration file on which we will be doing Prelayout timing analysis
 
-![image](https://github.com/user-attachments/assets/c50a21cc-6fc2-437e-988d-4e11f501ae25)
+![image](https://github.com/user-attachments/assets/2dcca01c-0f20-49cd-9391-4212663ffcf6)
+
+Let us see the contents of this file 
+
+![image](https://github.com/user-attachments/assets/88a8e65a-e2a4-4004-b176-a76897e83d95)
+
+![image](https://github.com/user-attachments/assets/f3181649-8827-4797-841b-53e91a39d5b3)
+
+Do sta pre_sta.conf
+
+![image](https://github.com/user-attachments/assets/37fb086f-4292-4181-8ab1-e86c1a86fe13)
+
+
+Hold analysis come into picture after CTS. Let us check set up analysis
+
+Optimize the fanout value
+
+Let us see the fanout value
+
+![image](https://github.com/user-attachments/assets/8c29ce40-67b9-490e-9fc2-9ce63cbdd6bd)
+
+![image](https://github.com/user-attachments/assets/c9ad7e63-a864-4047-9627-315200009448)
+
+Choose the optimum value of fanout value
+ set the fanout value to 4 and run the synthesis again
+
+ ![image](https://github.com/user-attachments/assets/26691fb4-3d2f-4b63-ad01-e82c8539a052)
+
+![image](https://github.com/user-attachments/assets/169b303b-c45b-4934-bd3f-3bf7b05f45b1)
+
+Net having huge delay
+
+![image](https://github.com/user-attachments/assets/9893474c-df45-478f-b71c-4f2e9a91a5f9)
+
+Now run the following commands
+
+![image](https://github.com/user-attachments/assets/11207a05-8f5a-49a6-8253-933dd4e1e3b0)
+
+upsizing the cell reduces the delay
+
+help write_verilog
+
+![image](https://github.com/user-attachments/assets/b1ea00a4-9419-4f0d-9b0d-825a7e7c4f9f)
+
+Now objective is to replace the synthesis file with modified one
+
+![image](https://github.com/user-attachments/assets/5801a876-19c6-4a56-ba43-7ef2ded528a9)
+
+This will over write the current verilog file
+
+![image](https://github.com/user-attachments/assets/1efef009-60d5-4e83-9c95-0961401b3683)
+
+The file has been modofied with 15/Sept/2024 earlier it was created on 11/Sept/2024
+
+![image](https://github.com/user-attachments/assets/cab9844e-f3f0-44ed-96a7-57ad4bfc017e)
+
+
+CTS: Let us see what are all the parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
