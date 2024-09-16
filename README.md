@@ -319,6 +319,42 @@ Now let us calculate the propogation delay
 
 cell rise delay = 2.21183e-09 - 2.15108e-09 = 0.06075 nS
 
+Problems in DRC
+
+![image](https://github.com/user-attachments/assets/80db1b8f-04e9-4647-822f-cb97841d16f7)
+
+![drc2](https://github.com/user-attachments/assets/54bfd2b3-ebc1-46ab-8f4d-321b6aa3f614)
+
+![drc2magicrc](https://github.com/user-attachments/assets/c15139d4-6d52-4f4c-94a7-76f03afa9433)
+
+![drc3](https://github.com/user-attachments/assets/dcfe3628-efde-4099-afeb-b18c0d6d602e)
+
+![drc4](https://github.com/user-attachments/assets/c98fd132-e9cb-46f5-8d83-c1ec1832c3c6)
+
+![drc5](https://github.com/user-attachments/assets/01e69edb-1a0f-46b8-be42-74310cdf0a2c)
+
+![drc6](https://github.com/user-attachments/assets/16c92828-94ce-4c28-866c-a0b57516f21e)
+
+![drc7](https://github.com/user-attachments/assets/cd878889-528d-425a-bcf5-ed7814f58143)
+
+![drc8](https://github.com/user-attachments/assets/7a8df255-4e2d-4709-bbd5-0c6fc27cbe2e)
+
+![drc9](https://github.com/user-attachments/assets/62b27f17-829d-47a3-80da-a3f613fbe106)
+
+![drc10](https://github.com/user-attachments/assets/b30ab77c-dbc0-424c-aa3f-0c655801955b)
+
+![drc11](https://github.com/user-attachments/assets/6ffd74e5-d202-439e-8bfd-f547ce0d2894)
+
+![drc12](https://github.com/user-attachments/assets/78fd13db-2dff-4edd-be0c-3c0d57719b88)
+
+![drc13](https://github.com/user-attachments/assets/adb65618-e748-4191-964a-b9f39be0a8c3)
+
+![drc14](https://github.com/user-attachments/assets/8306a760-47cc-4ffb-96c1-cf02bfeeba20)
+
+![drc15](https://github.com/user-attachments/assets/84129c87-ad3e-430c-add6-725e9c130b95)
+
+![drc16](https://github.com/user-attachments/assets/e45491f4-adcb-45b7-990a-2900b1757a28)
+
 
 #extracting lef file out of .mag file
 
@@ -553,8 +589,120 @@ The file has been modofied with 15/Sept/2024 earlier it was created on 11/Sept/2
 
 ![image](https://github.com/user-attachments/assets/cab9844e-f3f0-44ed-96a7-57ad4bfc017e)
 
+![orgate](https://github.com/user-attachments/assets/1da6e515-c153-49de-8cce-5004bd312da4)
 
-CTS: Let us see what are all the parameters
+![orgate2](https://github.com/user-attachments/assets/5e0a8bcb-302f-4405-8827-1947e686ccfa)
+
+![slack](https://github.com/user-attachments/assets/2ffde198-9ad9-48c9-bf60-6e5c0bf30a00)
+
+![customtimingreport](https://github.com/user-attachments/assets/1f91fd93-5115-4abf-93b2-fe8cc3d912fa)
+
+![updatevariablessynthesis](https://github.com/user-attachments/assets/d8870f37-74a1-46f4-a114-097d9dd9b9ad)
+
+![runfloorplan](https://github.com/user-attachments/assets/f7779e78-b671-4f42-a067-6e3449d320d1)
+
+![tapdecap](https://github.com/user-attachments/assets/7f98096a-1e11-4213-91b0-64cbea0c979e)
+
+![runplacement](https://github.com/user-attachments/assets/79b9b74e-260a-46df-83ef-798dfddb1077)
+
+![cts](https://github.com/user-attachments/assets/ba866a37-807d-45e2-a771-4a6a96e43c5f)
+
+![cts2](https://github.com/user-attachments/assets/8cdd89ea-ca45-4b90-b91a-28ddfbc3cc0b)
+
+openroad
+
+![openroad](https://github.com/user-attachments/assets/899238af-b4d6-4d66-902a-f673acf6c62a)
+
+![reportchecks](https://github.com/user-attachments/assets/e9fca8f7-90a4-4b15-b4d3-0c435a29f02f)
+
+
+![reportchecks1](https://github.com/user-attachments/assets/2376c6e7-512f-4c91-950c-97ea777da95a)
+
+![clkbuff](https://github.com/user-attachments/assets/7dd93e1e-9755-4ffc-bfc9-d7675b52e0b2)
+
+![insertingclkbuf1](https://github.com/user-attachments/assets/db78ad3e-7e2d-46c0-a63a-06bfa9d35489)
+
+![setuphold](https://github.com/user-attachments/assets/2b67e96d-7431-45db-8eff-9d472eed8ff7)
+
+Power Distribution Network
+
+![pdngen](https://github.com/user-attachments/assets/22901949-2a5d-49dc-a18d-44abd5775dfa)
+
+![pdnsuccessful](https://github.com/user-attachments/assets/ac0f0572-b938-432b-a301-1368e20d3b35)
+
+![pdndef](https://github.com/user-attachments/assets/2976c237-f3a9-45ae-b414-e72ffa037a8f)
+
+![pdndef1](https://github.com/user-attachments/assets/4936a6a3-c1cf-4a92-8fa4-533db12f6a60)
+
+![pdndef2](https://github.com/user-attachments/assets/cb1b55f4-11d0-4e5d-9a0b-1e2a857e473e)
+
+![pdndef3](https://github.com/user-attachments/assets/d1e16d8b-3c45-4ada-b97f-a8138a679532)
+
+![routing](https://github.com/user-attachments/assets/04d45a71-5a91-4def-a94b-9620a4aa6774)
+
+![routing1](https://github.com/user-attachments/assets/bd1bc0cb-192f-4fe6-a09a-4c414f82df3e)
+
+![routing2](https://github.com/user-attachments/assets/8ebfe671-adc4-4d05-aaca-5dbd5e87b9f8)
+
+![routing3](https://github.com/user-attachments/assets/67378d71-088f-4e7e-ae3d-5f506cd2836f)
+
+![routeddef](https://github.com/user-attachments/assets/3f582104-e31a-41b9-ac52-978d0236bea8)
+
+![routeddef1](https://github.com/user-attachments/assets/c5042468-311e-479a-963e-631086e98164)
+
+![routeddef2](https://github.com/user-attachments/assets/a248f818-a92a-4285-8078-6558a4bca7d9)
+
+![laststep1](https://github.com/user-attachments/assets/db025b85-d39c-4a52-99bb-580175991869)
+
+![laststep2](https://github.com/user-attachments/assets/006c37e0-5f48-40fe-9c1f-373d06d75118)
+
+![laststep3](https://github.com/user-attachments/assets/7700637f-3e87-460f-9d91-19fd3ca1e4b7)
+
+![laststep4](https://github.com/user-attachments/assets/d18bd42b-2043-479c-b0d4-b5162dde0893)
+
+![laststep5](https://github.com/user-attachments/assets/d5d3d6b7-c074-4f5b-8337-89402354027b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
