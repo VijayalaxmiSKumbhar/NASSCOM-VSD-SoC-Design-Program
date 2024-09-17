@@ -245,7 +245,9 @@ Aftercopying the file will be seen as given in the screenshot
 
 ![image](https://github.com/user-attachments/assets/1145bf1c-8364-4f53-9e7c-bd71c0987487)
 
-inverter in magic
+Day 3: Design Library Cell using Magic Layout and ngspice characterization
+
+Inverter in magic
 
 ![image](https://github.com/user-attachments/assets/3fa8b21b-038d-4ec2-85bb-d548212d552f)
 
@@ -365,6 +367,8 @@ Problems in DRC
 less tracks.info: tracks are basicaaly used during routing stage
 
 ![image](https://github.com/user-attachments/assets/13a0078d-6b01-4e26-869f-3729d7f22291)
+
+Day 4: Pre-layout timing analysis and importance of good clock tree
 
 Each of the tracks are placed at 0.46 along horizontal direction. Similarly for y direction 0.34
 
@@ -627,6 +631,8 @@ openroad
 ![insertingclkbuf1](https://github.com/user-attachments/assets/db78ad3e-7e2d-46c0-a63a-06bfa9d35489)
 
 ![setuphold](https://github.com/user-attachments/assets/2b67e96d-7431-45db-8eff-9d472eed8ff7)
+
+Day 5: Final steps for RTL2GDS using triton Route and openSTA
 
 Power Distribution Network
 
