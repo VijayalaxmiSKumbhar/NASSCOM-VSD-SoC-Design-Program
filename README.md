@@ -673,6 +673,16 @@ Power Distribution Network
 ![laststep5](https://github.com/user-attachments/assets/d5d3d6b7-c074-4f5b-8337-89402354027b)
 
 
+Acknowledgements
+
+Kunal Ghosh, Co-founder VSD Coporation Private Limited.
+
+Nickson P Jose, Physical Design Engineer, Intel Corporation.
+
+R. Timothy Edwards, Senior Vice President of Analog and Design, efabless Corporation.
+
+
+
 
 
 
