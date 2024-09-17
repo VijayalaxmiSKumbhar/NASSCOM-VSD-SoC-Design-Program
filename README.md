@@ -1,5 +1,7 @@
 # VSD-SoC-Design-Program
 
+Day 1: Inception of open-source EDA, openLANE and sky130PDK
+
 L1: OpenLANE Working Directory Structure
 
 Linux Commands
@@ -144,6 +146,8 @@ Flop ratio
 sta timing report
 
 ![image](https://github.com/user-attachments/assets/e1d15e6c-8c47-4905-908c-f912011c604b)
+
+Day 2: Good floorplan Vs bad floorplan and introduction to library cells
 
 floorplan: set the die area, core area, aspect ratio, utilization factor, place the input output cells, power distribution network and macrocell placement
 
