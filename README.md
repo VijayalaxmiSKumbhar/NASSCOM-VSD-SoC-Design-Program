@@ -37,20 +37,17 @@
 
 ## To invoke the tool
 
-```
-docker 
-./flow.tcl -interactive
-
-```
+`docker`
+`./flow.tcl -interactive`
 
 ![openlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/ff642715-c5eb-4d00-ba6d-6e265974a857)
 
-``
+
 package require openlane 0.9
 
 prep -design picorv32a
 
-```
+
 ![image](https://github.com/user-attachments/assets/81ac7fd4-eab3-466a-b63c-c21972e30519)
 
 
