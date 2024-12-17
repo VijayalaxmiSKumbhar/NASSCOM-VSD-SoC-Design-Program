@@ -1,7 +1,9 @@
 # VSD-SoC-Design-Program
 
-Day 1: Inception of open-source EDA, openLANE and sky130PDK
-
+<details>
+ <summary>Day 1: Inception of open-source EDA, openLANE and sky130PDK</summary>
+ <br>
+ 
 L1: OpenLANE Working Directory Structure
 
 Linux Commands
@@ -38,8 +40,6 @@ docker
 ./flow.tcl -interactive
 
 ![openlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/ff642715-c5eb-4d00-ba6d-6e265974a857)
-
-L2: Design Preparation Steps
 
 package require openlane 0.9
 
@@ -147,8 +147,11 @@ sta timing report
 
 ![image](https://github.com/user-attachments/assets/e1d15e6c-8c47-4905-908c-f912011c604b)
 
-Day 2: Good floorplan Vs bad floorplan and introduction to library cells
+</details>
 
+<details> 
+<summary> Day 2: Good floorplan Vs bad floorplan and introduction to library cells </summary>
+<br>
 floorplan: set the die area, core area, aspect ratio, utilization factor, place the input output cells, power distribution network and macrocell placement
 
 standard cells are not placed in floor planning
@@ -245,7 +248,12 @@ Aftercopying the file will be seen as given in the screenshot
 
 ![image](https://github.com/user-attachments/assets/1145bf1c-8364-4f53-9e7c-bd71c0987487)
 
-Day 3: Design Library Cell using Magic Layout and ngspice characterization
+</details>
+
+<details>
+
+<summary> Day 3: Design Library Cell using Magic Layout and ngspice characterization </summary>
+<br>
 
 Inverter in magic
 
@@ -368,7 +376,13 @@ less tracks.info: tracks are basicaaly used during routing stage
 
 ![image](https://github.com/user-attachments/assets/13a0078d-6b01-4e26-869f-3729d7f22291)
 
-Day 4: Pre-layout timing analysis and importance of good clock tree
+</details>
+
+
+<details>
+
+ <summary> Day 4: Pre-layout timing analysis and importance of good clock tree </summary>
+ <br>
 
 Each of the tracks are placed at 0.46 along horizontal direction. Similarly for y direction 0.34
 
@@ -632,8 +646,12 @@ openroad
 
 ![setuphold](https://github.com/user-attachments/assets/2b67e96d-7431-45db-8eff-9d472eed8ff7)
 
-Day 5: Final steps for RTL2GDS using triton Route and openSTA
+</details>
 
+<details>
+
+<summary> Day 5: Final steps for RTL2GDS using triton Route and openSTA </summary>
+<br>
 Power Distribution Network
 
 ![pdngen](https://github.com/user-attachments/assets/22901949-2a5d-49dc-a18d-44abd5775dfa)
@@ -673,22 +691,15 @@ Power Distribution Network
 ![laststep5](https://github.com/user-attachments/assets/d5d3d6b7-c074-4f5b-8337-89402354027b)
 
 
-Certificate
+</details>
+
+
+## Certificate
 
 ![image](https://github.com/user-attachments/assets/bb73341a-b682-4dc1-9b42-49db67726836)
 
 
-
-
-
-
-
-
-
-
-
-
-Acknowledgements
+## Acknowledgements
 
 Kunal Ghosh, Co-founder VSD Coporation Private Limited.
 
