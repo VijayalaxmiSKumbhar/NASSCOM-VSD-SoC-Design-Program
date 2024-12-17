@@ -4,81 +4,87 @@
  <summary>Day 1: Inception of open-source EDA, openLANE and sky130PDK</summary>
  <br>
  
-L1: OpenLANE Working Directory Structure
+## L1: OpenLANE Working Directory Structure
 
-Linux Commands
+#### Linux Commands
 
-cd: Change directory
+* `cd`: Change directory
 
-ls: list files 
+* `ls`: list files 
 
-ls -ltr: List the files in chronological order
+* `ls -ltr`: List the files in chronological order
 
-ls --help: Gives the detailed information about commands
+* `ls --help`: Gives the detailed information about commands
 
 
 ![linuxcommands](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/63a389c8-6025-4b6a-b103-423c875d2234)
 
-clear command
+* clear command
 
 ![clear command](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/f2ae3a86-117f-4f20-9e36-fae8524a5957)
 
-pdks
+* pdks
 
 ![image](https://github.com/user-attachments/assets/ae30cb39-ac12-4577-9616-f0ed076f6f09)
 
-libs.ref, libs.tech
+* libs.ref, libs.tech
 
 ![libs](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/e0d718bf-fb9a-4c3c-adf4-b39538f1029e)
 
-sky130_fd_sc_hd
+* sky130_fd_sc_hd
 
 ![sc](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/371b3f31-fc41-466e-a0f1-13aa1b433bfb)
 
-To invoke the tool
+## To invoke the tool
+
+```
 docker 
 ./flow.tcl -interactive
 
+```
+
 ![openlane](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/ff642715-c5eb-4d00-ba6d-6e265974a857)
 
+``
 package require openlane 0.9
 
 prep -design picorv32a
 
+```
 ![image](https://github.com/user-attachments/assets/81ac7fd4-eab3-466a-b63c-c21972e30519)
 
 
-Various designs in openlane
+## Various designs in openlane
 
 ![image](https://github.com/user-attachments/assets/5247ca15-3106-41f6-9d2e-ac08518d29a3)
 
 
-picorv32a contains 3 files
+## picorv32a contains 3 files
 
-src: source file
+* `src: source file`
 
-pdk specific file 
+* `pdk specific file` 
 
-config.tcl file
+* `config.tcl file`
 
 
 ![picorv32a](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/d2a79fd2-80bd-48c0-a2ce-f5774ba23fa5)
 
-less config.tcl contains all the information
+* less config.tcl contains all the information
 
-design environment
+## design environment
 
-verilog file
+* verilog file
 
-sdc file
+* sdc file
 
-clock period
+* clock period
 
-setting of the file
+* setting of the file
 
 ![config](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/b96eec9a-2f3b-4fb3-b0f3-841cc905029a)
 
-Design Preparation steps
+## Design Preparation steps
 
 ![designprep](https://github.com/VijayalaxmiSKumbhar/VSD-SoC-Design-Program/assets/170864002/0afd49ae-0dce-45e3-bd30-abf0a46f76c3)
 
